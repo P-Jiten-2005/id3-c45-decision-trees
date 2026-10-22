@@ -1,0 +1,401 @@
+applicant_id,income_k,credit_score,employment,education,property_area,dependents,loan_amount_k,approved
+A0001,55.0,691.0,Salaried,Not Graduate,,1,110.7,Yes
+A0002,60.4,704.0,Salaried,Graduate,Semiurban,3,177.7,Yes
+A0003,50.1,657.0,Salaried,Graduate,Semiurban,0,213.9,No
+A0004,39.0,,Salaried,Not Graduate,Semiurban,2,161.1,Yes
+A0005,46.8,693.0,Salaried,Graduate,Urban,0,125.2,Yes
+A0006,37.2,607.0,Self-employed,Graduate,Rural,2,62.9,Yes
+A0007,56.1,624.0,Salaried,Not Graduate,Semiurban,2,235.7,No
+A0008,79.1,728.0,Self-employed,Graduate,Rural,2,352.7,Yes
+A0009,46.1,708.0,Self-employed,Graduate,,3,139.9,Yes
+A0010,43.8,566.0,Salaried,Not Graduate,Rural,2,95.3,No
+A0011,63.8,761.0,Salaried,Graduate,Rural,3,199.8,Yes
+A0012,61.4,716.0,Salaried,Not Graduate,Rural,0,220.4,Yes
+A0013,56.9,761.0,Salaried,Not Graduate,Urban,1,167.7,Yes
+A0014,38.3,657.0,Self-employed,Graduate,,0,98.0,Yes
+A0015,54.5,662.0,Salaried,Graduate,Rural,0,122.3,Yes
+A0016,67.5,612.0,Salaried,Graduate,Rural,0,161.4,Yes
+A0017,30.8,832.0,Self-employed,Not Graduate,Rural,2,50.8,Yes
+A0018,46.8,669.0,Salaried,Graduate,Urban,2,106.0,Yes
+A0019,20.8,775.0,Salaried,Graduate,,0,90.7,No
+A0020,31.8,641.0,Self-employed,Not Graduate,Rural,3,48.5,Yes
+A0021,21.8,690.0,Self-employed,Graduate,Semiurban,0,80.3,Yes
+A0022,50.8,580.0,Salaried,Not Graduate,Urban,0,196.4,No
+A0023,32.2,657.0,Self-employed,Not Graduate,Semiurban,2,87.4,Yes
+A0024,59.9,739.0,Salaried,Graduate,Urban,2,196.8,Yes
+A0025,,605.0,Salaried,Graduate,Semiurban,2,125.0,Yes
+A0026,51.6,,Salaried,Graduate,,0,180.8,Yes
+A0027,12.0,700.0,Salaried,Graduate,Semiurban,1,43.5,No
+A0028,45.3,617.0,Salaried,Graduate,Semiurban,2,167.8,No
+A0029,54.1,650.0,Self-employed,Not Graduate,Rural,0,161.0,Yes
+A0030,57.0,652.0,Salaried,Not Graduate,Urban,2,251.4,No
+A0031,27.5,,Salaried,Graduate,Semiurban,2,112.7,No
+A0032,46.4,648.0,Self-employed,Graduate,Semiurban,1,149.3,Yes
+A0033,37.4,630.0,Salaried,Graduate,Semiurban,2,132.7,No
+A0034,40.4,662.0,,Not Graduate,Rural,0,93.9,No
+A0035,,618.0,Salaried,Graduate,Rural,2,320.9,No
+A0036,40.5,603.0,,Graduate,Rural,1,139.1,No
+A0037,54.4,677.0,Salaried,Graduate,Semiurban,0,227.7,No
+A0038,70.9,733.0,Unemployed,Not Graduate,Urban,1,167.7,No
+A0039,44.5,588.0,Salaried,Graduate,Urban,1,197.9,No
+A0040,53.0,680.0,Self-employed,Graduate,Semiurban,1,96.3,Yes
+A0041,57.0,641.0,Unemployed,Graduate,Urban,0,176.2,No
+A0042,56.1,621.0,Unemployed,Not Graduate,Rural,3,102.7,No
+A0043,32.9,731.0,Salaried,Not Graduate,Semiurban,3,68.1,Yes
+A0044,56.4,649.0,Salaried,Not Graduate,Urban,0,213.9,No
+A0045,79.5,,Self-employed,Graduate,Rural,3,135.0,Yes
+A0046,27.2,633.0,Self-employed,Graduate,Urban,1,72.0,No
+A0047,70.5,703.0,Salaried,Not Graduate,Rural,0,146.3,Yes
+A0048,57.1,666.0,Salaried,Not Graduate,Urban,2,231.3,No
+A0049,43.5,635.0,Salaried,Graduate,Semiurban,0,76.0,Yes
+A0050,91.0,715.0,Salaried,Not Graduate,Semiurban,2,228.4,Yes
+A0051,68.7,671.0,Salaried,Graduate,Semiurban,2,279.5,Yes
+A0052,33.4,716.0,Salaried,Graduate,Urban,1,118.9,Yes
+A0053,56.3,677.0,Salaried,Graduate,Urban,0,203.2,Yes
+A0054,65.4,615.0,Salaried,Graduate,Semiurban,2,292.6,No
+A0055,51.6,674.0,Salaried,Not Graduate,Rural,1,81.0,Yes
+A0056,67.3,683.0,,Not Graduate,Semiurban,3,235.2,Yes
+A0057,53.8,738.0,Unemployed,Graduate,Urban,0,200.9,No
+A0058,67.0,626.0,,Not Graduate,Semiurban,2,250.9,No
+A0059,80.9,678.0,Salaried,Graduate,Rural,2,294.6,Yes
+A0060,42.8,577.0,Self-employed,Graduate,Semiurban,0,73.5,No
+A0061,58.7,719.0,Salaried,Graduate,Rural,0,102.8,Yes
+A0062,46.7,615.0,Salaried,Graduate,Rural,0,178.3,No
+A0063,57.3,572.0,Unemployed,Graduate,Rural,0,191.1,No
+A0064,33.6,676.0,Self-employed,Graduate,Urban,0,76.9,Yes
+A0065,44.6,746.0,Self-employed,Graduate,Semiurban,0,68.1,Yes
+A0066,51.5,589.0,Salaried,Graduate,Rural,0,159.7,No
+A0067,71.2,615.0,Salaried,Graduate,Semiurban,2,126.1,Yes
+A0068,75.6,635.0,Salaried,Not Graduate,Rural,0,283.1,Yes
+A0069,31.2,612.0,Salaried,Not Graduate,Semiurban,1,78.7,No
+A0070,40.7,703.0,Salaried,Graduate,Rural,0,159.6,No
+A0071,66.6,632.0,Salaried,Graduate,,0,119.0,Yes
+A0072,19.1,637.0,,Not Graduate,Urban,2,57.0,No
+A0073,46.7,715.0,Salaried,Graduate,Urban,1,84.0,Yes
+A0074,53.2,635.0,Salaried,Graduate,Rural,1,204.3,Yes
+A0075,77.6,706.0,Unemployed,Graduate,Semiurban,0,246.8,Yes
+A0076,67.4,622.0,Salaried,Not Graduate,Semiurban,1,148.6,Yes
+A0077,,,Salaried,Not Graduate,Rural,2,215.5,No
+A0078,48.4,570.0,Salaried,Graduate,Urban,0,171.6,No
+A0079,50.5,792.0,Self-employed,Not Graduate,Semiurban,1,126.7,Yes
+A0080,,661.0,Self-employed,Not Graduate,Semiurban,1,335.0,Yes
+A0081,47.3,695.0,Salaried,Not Graduate,Semiurban,0,124.9,Yes
+A0082,49.5,678.0,Self-employed,Graduate,Semiurban,3,214.2,Yes
+A0083,61.3,690.0,Salaried,Not Graduate,Urban,1,146.6,Yes
+A0084,52.8,683.0,Salaried,Graduate,Semiurban,0,235.1,Yes
+A0085,51.4,794.0,Salaried,Not Graduate,Semiurban,2,86.7,Yes
+A0086,34.9,618.0,Unemployed,Graduate,Urban,2,129.3,No
+A0087,54.8,587.0,Self-employed,Graduate,Urban,1,130.1,No
+A0088,47.0,619.0,Self-employed,Not Graduate,Urban,3,130.3,No
+A0089,76.0,600.0,Salaried,Graduate,Semiurban,0,259.1,Yes
+A0090,66.8,725.0,Salaried,Graduate,Semiurban,1,109.4,Yes
+A0091,54.6,729.0,Self-employed,Not Graduate,Semiurban,2,118.5,Yes
+A0092,,622.0,Salaried,Not Graduate,Rural,3,121.4,Yes
+A0093,48.9,597.0,Salaried,Not Graduate,Rural,1,181.9,No
+A0094,73.9,659.0,Self-employed,Graduate,Semiurban,1,159.9,Yes
+A0095,54.9,763.0,,Not Graduate,Semiurban,0,164.4,Yes
+A0096,65.5,511.0,,Graduate,Urban,1,162.8,No
+A0097,31.8,712.0,Salaried,Not Graduate,Semiurban,1,70.2,Yes
+A0098,61.2,615.0,Salaried,Graduate,Semiurban,3,263.5,No
+A0099,24.6,742.0,Salaried,Graduate,Urban,2,74.4,Yes
+A0100,18.4,615.0,Self-employed,Graduate,Urban,2,63.5,No
+A0101,49.5,663.0,,Graduate,Rural,3,178.9,No
+A0102,38.8,590.0,Salaried,Not Graduate,Urban,0,153.8,No
+A0103,58.0,621.0,Self-employed,Graduate,Rural,2,132.8,Yes
+A0104,95.4,763.0,Salaried,Not Graduate,Rural,1,165.6,Yes
+A0105,40.0,729.0,Salaried,Graduate,Semiurban,2,116.1,Yes
+A0106,43.8,656.0,Salaried,Graduate,Urban,0,88.0,Yes
+A0107,58.7,628.0,Salaried,Graduate,Urban,1,91.6,Yes
+A0108,63.9,566.0,,Graduate,Semiurban,2,272.2,No
+A0109,,656.0,Salaried,Not Graduate,Rural,0,175.1,Yes
+A0110,51.3,,Self-employed,Not Graduate,Semiurban,0,140.7,Yes
+A0111,67.6,675.0,Salaried,Graduate,Semiurban,1,129.1,Yes
+A0112,64.4,674.0,Self-employed,Not Graduate,Urban,2,243.7,No
+A0113,36.4,613.0,Self-employed,Graduate,Rural,0,112.8,No
+A0114,53.6,,Salaried,Not Graduate,Rural,2,108.4,Yes
+A0115,55.6,678.0,Salaried,Graduate,Urban,0,247.2,No
+A0116,36.0,757.0,Unemployed,Graduate,Rural,0,156.7,No
+A0117,,792.0,Salaried,Graduate,Rural,1,255.6,Yes
+A0118,,,Salaried,Graduate,Urban,1,157.6,No
+A0119,72.5,634.0,Salaried,Not Graduate,Urban,2,224.4,Yes
+A0120,,676.0,,Graduate,Semiurban,2,140.5,No
+A0121,56.6,644.0,Salaried,Not Graduate,Rural,0,195.6,No
+A0122,44.4,635.0,Salaried,Graduate,Semiurban,2,86.8,No
+A0123,52.9,676.0,Salaried,Not Graduate,Rural,1,177.2,No
+A0124,19.0,617.0,Salaried,Graduate,Urban,0,32.3,No
+A0125,34.6,716.0,Salaried,Graduate,Rural,2,53.3,Yes
+A0126,61.5,674.0,Unemployed,Graduate,Semiurban,2,224.3,No
+A0127,16.7,695.0,Unemployed,Graduate,Urban,1,42.2,No
+A0128,70.2,669.0,Salaried,Graduate,Rural,3,252.1,No
+A0129,23.6,636.0,Salaried,Graduate,Semiurban,0,90.6,No
+A0130,68.6,623.0,Salaried,Graduate,Rural,0,274.8,No
+A0131,39.8,666.0,Self-employed,Graduate,Rural,2,133.2,No
+A0132,69.0,647.0,Self-employed,Graduate,Rural,0,278.8,Yes
+A0133,57.4,694.0,Self-employed,Not Graduate,Urban,1,199.6,Yes
+A0134,27.3,680.0,Salaried,Not Graduate,,1,116.9,No
+A0135,77.5,598.0,Salaried,Graduate,Rural,0,324.8,No
+A0136,81.0,684.0,Self-employed,Graduate,Urban,2,132.0,Yes
+A0137,53.8,599.0,Salaried,Graduate,Urban,2,123.9,Yes
+A0138,50.1,643.0,Self-employed,Graduate,Semiurban,0,133.6,Yes
+A0139,52.1,662.0,Salaried,Not Graduate,,0,117.6,Yes
+A0140,37.4,555.0,Salaried,Graduate,Rural,2,75.9,No
+A0141,74.8,685.0,Unemployed,Graduate,Urban,3,308.2,No
+A0142,45.2,689.0,Salaried,Graduate,Semiurban,2,71.2,Yes
+A0143,54.1,671.0,Salaried,Graduate,Rural,1,110.7,Yes
+A0144,40.7,655.0,Salaried,Graduate,Semiurban,0,153.9,Yes
+A0145,43.7,658.0,Self-employed,Graduate,Semiurban,0,94.8,Yes
+A0146,32.0,621.0,Salaried,Not Graduate,Rural,0,72.8,No
+A0147,77.6,664.0,Salaried,Not Graduate,Urban,1,341.6,Yes
+A0148,52.2,647.0,Salaried,Graduate,Urban,0,197.7,No
+A0149,72.4,686.0,Salaried,Not Graduate,Rural,0,206.1,Yes
+A0150,55.2,608.0,Salaried,Graduate,Urban,0,105.4,Yes
+A0151,42.5,694.0,Salaried,Graduate,Rural,0,98.1,Yes
+A0152,49.1,689.0,Salaried,Graduate,Urban,1,218.2,Yes
+A0153,44.9,672.0,Self-employed,Graduate,Rural,1,173.9,No
+A0154,55.1,654.0,Salaried,Not Graduate,Rural,1,94.2,Yes
+A0155,48.2,713.0,Unemployed,Not Graduate,Rural,3,174.5,No
+A0156,49.6,580.0,Unemployed,Graduate,Urban,2,130.4,No
+A0157,30.2,708.0,Salaried,Graduate,Semiurban,1,110.5,No
+A0158,40.5,695.0,Salaried,Not Graduate,Urban,2,96.6,Yes
+A0159,84.8,697.0,Self-employed,Not Graduate,Urban,0,160.3,Yes
+A0160,42.9,703.0,Salaried,Graduate,Semiurban,2,66.9,Yes
+A0161,36.0,641.0,Self-employed,Not Graduate,Urban,0,85.9,No
+A0162,61.1,664.0,Salaried,Not Graduate,Semiurban,1,249.4,Yes
+A0163,80.3,718.0,Self-employed,Not Graduate,Urban,3,335.1,Yes
+A0164,28.8,706.0,Salaried,Graduate,Urban,1,102.2,Yes
+A0165,51.2,692.0,Self-employed,Graduate,Semiurban,1,191.7,Yes
+A0166,43.6,589.0,Unemployed,Graduate,Rural,2,90.9,No
+A0167,23.3,712.0,Salaried,Graduate,Rural,0,59.7,Yes
+A0168,68.2,750.0,Self-employed,Not Graduate,Urban,2,286.3,Yes
+A0169,54.6,741.0,Salaried,Graduate,Rural,0,243.5,No
+A0170,56.3,694.0,Salaried,Graduate,Rural,0,159.3,Yes
+A0171,41.5,587.0,Salaried,Graduate,Rural,0,158.9,No
+A0172,63.2,737.0,Salaried,Not Graduate,,0,271.8,Yes
+A0173,45.3,671.0,Salaried,Graduate,Semiurban,3,203.4,No
+A0174,52.4,528.0,Self-employed,Not Graduate,Rural,0,125.1,No
+A0175,35.1,703.0,Salaried,Graduate,Semiurban,0,121.5,No
+A0176,33.1,590.0,Self-employed,Not Graduate,Urban,1,88.4,No
+A0177,79.0,602.0,Unemployed,Not Graduate,Urban,2,228.7,No
+A0178,45.9,642.0,Unemployed,Graduate,,2,132.5,No
+A0179,60.3,756.0,Self-employed,Graduate,Urban,0,140.8,Yes
+A0180,54.4,658.0,Self-employed,Graduate,Rural,0,84.7,Yes
+A0181,47.1,696.0,Salaried,Not Graduate,Semiurban,2,179.0,No
+A0182,45.9,785.0,Unemployed,Graduate,,0,164.7,Yes
+A0183,66.3,776.0,Salaried,Graduate,,0,266.6,Yes
+A0184,49.6,674.0,Self-employed,Graduate,Urban,0,97.2,Yes
+A0185,52.3,666.0,Self-employed,Graduate,Semiurban,1,115.6,Yes
+A0186,55.4,604.0,Self-employed,Not Graduate,Semiurban,3,182.2,No
+A0187,76.2,638.0,Salaried,Not Graduate,Urban,2,328.4,No
+A0188,67.2,706.0,Salaried,Not Graduate,Semiurban,1,195.9,Yes
+A0189,61.9,704.0,Salaried,Not Graduate,Semiurban,1,130.1,Yes
+A0190,44.9,687.0,Salaried,Graduate,Semiurban,1,147.5,Yes
+A0191,30.1,740.0,Salaried,Graduate,Urban,1,131.6,Yes
+A0192,72.1,634.0,Salaried,Not Graduate,Rural,0,295.9,No
+A0193,72.4,677.0,Self-employed,Not Graduate,Rural,0,303.9,Yes
+A0194,52.5,724.0,Unemployed,Not Graduate,Semiurban,0,143.4,Yes
+A0195,,715.0,Salaried,Not Graduate,Urban,2,148.2,Yes
+A0196,69.1,744.0,Salaried,Not Graduate,Semiurban,1,284.1,Yes
+A0197,70.0,704.0,Salaried,Graduate,Semiurban,2,270.5,Yes
+A0198,71.6,661.0,Salaried,Not Graduate,Semiurban,0,290.3,No
+A0199,46.8,702.0,Salaried,Graduate,Urban,3,125.1,Yes
+A0200,82.3,620.0,Salaried,Graduate,,0,194.1,Yes
+A0201,,582.0,Salaried,Graduate,Urban,3,72.4,No
+A0202,70.5,715.0,Salaried,Graduate,Semiurban,1,289.9,Yes
+A0203,63.9,677.0,Salaried,Graduate,Rural,1,272.1,Yes
+A0204,70.7,699.0,Self-employed,Graduate,,2,183.9,Yes
+A0205,88.8,578.0,Salaried,Graduate,Urban,1,366.2,No
+A0206,81.7,658.0,Salaried,Not Graduate,,1,216.0,Yes
+A0207,34.4,644.0,Salaried,Not Graduate,Rural,0,97.8,No
+A0208,24.6,628.0,Unemployed,Not Graduate,Urban,1,78.7,No
+A0209,69.7,545.0,Salaried,Not Graduate,Rural,0,150.8,No
+A0210,,660.0,Self-employed,Graduate,Urban,0,84.5,Yes
+A0211,54.8,734.0,Salaried,Graduate,Urban,0,126.0,Yes
+A0212,70.1,703.0,Self-employed,Graduate,Rural,1,159.8,Yes
+A0213,25.4,644.0,Salaried,Graduate,Urban,0,77.4,Yes
+A0214,17.0,679.0,Salaried,Not Graduate,Urban,2,30.6,Yes
+A0215,59.7,725.0,Self-employed,Graduate,Semiurban,0,229.3,Yes
+A0216,55.8,514.0,Self-employed,Not Graduate,Urban,0,113.0,No
+A0217,50.6,673.0,Salaried,Not Graduate,Semiurban,3,143.3,Yes
+A0218,55.7,713.0,,Graduate,Semiurban,0,190.8,Yes
+A0219,39.5,721.0,Unemployed,Not Graduate,Rural,1,75.6,No
+A0220,27.8,782.0,Salaried,Graduate,Urban,0,75.8,Yes
+A0221,52.0,748.0,Salaried,Graduate,Urban,0,165.9,Yes
+A0222,,699.0,Unemployed,Graduate,Urban,0,118.2,No
+A0223,25.4,698.0,Salaried,Graduate,Rural,2,106.1,Yes
+A0224,64.1,727.0,Salaried,Graduate,Semiurban,0,247.1,Yes
+A0225,53.9,648.0,Salaried,Graduate,Rural,2,100.4,Yes
+A0226,62.3,678.0,Salaried,Not Graduate,Semiurban,3,249.2,Yes
+A0227,37.2,734.0,Salaried,Graduate,Rural,1,117.2,Yes
+A0228,43.2,797.0,Salaried,Graduate,Rural,0,152.7,Yes
+A0229,37.0,670.0,Salaried,Not Graduate,Rural,0,73.3,Yes
+A0230,39.0,677.0,Salaried,Graduate,Rural,0,113.7,Yes
+A0231,58.5,692.0,Self-employed,Not Graduate,Semiurban,0,210.6,Yes
+A0232,40.9,761.0,,Not Graduate,Rural,2,159.2,Yes
+A0233,61.4,678.0,Salaried,Graduate,Rural,0,240.5,No
+A0234,61.1,768.0,,Graduate,Semiurban,2,131.5,Yes
+A0235,,622.0,Salaried,Graduate,Rural,1,365.8,No
+A0236,29.9,669.0,Self-employed,Graduate,Semiurban,0,95.8,No
+A0237,71.0,668.0,Salaried,Graduate,Semiurban,0,248.9,Yes
+A0238,53.4,727.0,Self-employed,Graduate,Semiurban,2,216.5,Yes
+A0239,54.7,743.0,Salaried,Graduate,Semiurban,1,148.6,Yes
+A0240,28.9,589.0,Salaried,Not Graduate,Urban,0,123.1,No
+A0241,46.7,,Salaried,Graduate,Semiurban,2,193.5,No
+A0242,68.4,700.0,Salaried,Not Graduate,Rural,0,268.3,Yes
+A0243,53.5,640.0,Self-employed,Not Graduate,Semiurban,0,141.2,Yes
+A0244,56.5,589.0,Self-employed,Graduate,Urban,0,174.3,No
+A0245,49.8,742.0,Salaried,Graduate,Rural,1,100.6,Yes
+A0246,75.8,710.0,Unemployed,Graduate,Urban,0,286.4,Yes
+A0247,54.6,710.0,Self-employed,Graduate,Rural,0,227.8,Yes
+A0248,15.4,651.0,,Not Graduate,Semiurban,2,30.5,No
+A0249,42.5,742.0,Salaried,Graduate,Rural,1,158.7,Yes
+A0250,19.6,666.0,Self-employed,Graduate,,1,70.2,Yes
+A0251,12.0,746.0,Salaried,Graduate,Urban,2,19.3,Yes
+A0252,45.5,625.0,Self-employed,Not Graduate,Urban,1,193.4,No
+A0253,79.0,629.0,Self-employed,Graduate,Urban,0,232.1,No
+A0254,55.8,692.0,Salaried,Graduate,Rural,1,128.8,Yes
+A0255,,638.0,Self-employed,Not Graduate,Rural,0,53.9,Yes
+A0256,,721.0,Salaried,Graduate,Semiurban,0,146.5,Yes
+A0257,75.4,696.0,Salaried,Not Graduate,Rural,0,189.5,Yes
+A0258,57.8,625.0,Salaried,Graduate,Semiurban,0,175.7,No
+A0259,55.9,684.0,Unemployed,Graduate,Urban,0,116.5,Yes
+A0260,54.0,659.0,,Graduate,Urban,1,179.3,No
+A0261,55.7,735.0,Self-employed,Not Graduate,Rural,2,149.9,Yes
+A0262,69.5,642.0,Salaried,Not Graduate,Rural,0,272.4,No
+A0263,64.9,654.0,Unemployed,Not Graduate,Rural,0,227.1,No
+A0264,58.9,753.0,Unemployed,Graduate,Urban,0,215.9,Yes
+A0265,36.2,814.0,Salaried,Graduate,Semiurban,1,81.6,Yes
+A0266,64.2,800.0,Unemployed,Graduate,Semiurban,1,108.6,Yes
+A0267,42.7,684.0,Self-employed,Graduate,,3,176.8,No
+A0268,74.7,693.0,Salaried,Graduate,Rural,0,321.7,No
+A0269,32.1,772.0,Salaried,Graduate,Semiurban,3,110.1,Yes
+A0270,,673.0,,Not Graduate,Rural,3,223.9,No
+A0271,54.9,621.0,Salaried,Not Graduate,Urban,0,198.7,No
+A0272,31.2,687.0,Salaried,Not Graduate,Rural,2,103.5,No
+A0273,86.0,707.0,Salaried,Not Graduate,Rural,2,237.1,Yes
+A0274,81.3,630.0,Salaried,Graduate,Rural,1,208.7,Yes
+A0275,46.7,581.0,Self-employed,Graduate,,0,138.7,No
+A0276,68.9,594.0,,Graduate,Urban,1,149.3,Yes
+A0277,61.8,720.0,Unemployed,Graduate,Urban,2,172.0,No
+A0278,12.0,634.0,Salaried,Graduate,,0,36.3,No
+A0279,59.5,672.0,Salaried,Not Graduate,Rural,1,94.8,Yes
+A0280,53.9,693.0,,Graduate,Semiurban,0,144.5,Yes
+A0281,56.5,717.0,Salaried,Graduate,Urban,2,133.0,Yes
+A0282,35.6,660.0,Unemployed,Graduate,Urban,2,121.1,No
+A0283,50.2,710.0,Salaried,Not Graduate,Urban,0,197.6,No
+A0284,51.8,627.0,Self-employed,Graduate,Rural,2,173.2,No
+A0285,76.4,658.0,Self-employed,Not Graduate,Urban,1,266.8,Yes
+A0286,61.0,619.0,Salaried,Graduate,Urban,0,203.8,Yes
+A0287,54.9,748.0,Self-employed,Graduate,Urban,1,124.6,Yes
+A0288,82.5,678.0,Salaried,Graduate,Urban,1,216.9,Yes
+A0289,45.0,636.0,,Graduate,Urban,0,181.5,No
+A0290,48.0,659.0,Salaried,Not Graduate,Urban,1,208.2,No
+A0291,22.3,667.0,Salaried,Not Graduate,Semiurban,3,45.6,No
+A0292,83.2,722.0,Self-employed,Not Graduate,Urban,1,127.4,Yes
+A0293,72.4,584.0,Salaried,Graduate,Rural,1,317.4,No
+A0294,71.5,618.0,Salaried,Graduate,Semiurban,0,291.6,No
+A0295,67.0,657.0,Salaried,Not Graduate,Semiurban,0,222.6,Yes
+A0296,57.0,832.0,Salaried,Not Graduate,Urban,2,225.2,Yes
+A0297,58.9,737.0,Salaried,Graduate,Urban,2,193.4,Yes
+A0298,50.5,673.0,Self-employed,Graduate,Rural,2,212.8,No
+A0299,51.3,723.0,Self-employed,Graduate,Semiurban,1,114.4,Yes
+A0300,56.0,803.0,Salaried,Graduate,Rural,1,158.6,Yes
+A0301,82.2,666.0,Salaried,Not Graduate,Urban,1,288.7,Yes
+A0302,65.0,658.0,Unemployed,Graduate,Semiurban,2,139.5,Yes
+A0303,53.9,753.0,Salaried,Graduate,Urban,0,196.4,Yes
+A0304,44.6,710.0,Self-employed,Graduate,Rural,1,102.0,Yes
+A0305,43.6,720.0,Salaried,Graduate,Semiurban,1,158.3,Yes
+A0306,83.8,,Self-employed,Not Graduate,Rural,1,327.9,No
+A0307,64.1,795.0,,Graduate,Rural,0,177.7,Yes
+A0308,56.2,783.0,Self-employed,Not Graduate,Urban,0,251.2,Yes
+A0309,48.8,714.0,Self-employed,Graduate,Urban,0,165.6,Yes
+A0310,35.0,,Self-employed,Graduate,Rural,0,131.9,No
+A0311,53.8,558.0,Salaried,Not Graduate,Rural,2,84.0,No
+A0312,70.7,718.0,Self-employed,Not Graduate,Rural,2,130.0,Yes
+A0313,47.9,668.0,Salaried,Graduate,Urban,2,174.1,No
+A0314,50.9,706.0,Salaried,Graduate,Semiurban,0,220.4,Yes
+A0315,51.0,721.0,Salaried,Graduate,Urban,0,172.6,Yes
+A0316,57.0,660.0,Salaried,Not Graduate,Semiurban,1,241.6,No
+A0317,26.3,579.0,Self-employed,Graduate,Semiurban,2,44.1,Yes
+A0318,50.8,702.0,Unemployed,Graduate,Rural,1,212.1,No
+A0319,39.6,636.0,Salaried,Not Graduate,Rural,1,163.6,No
+A0320,70.9,660.0,Salaried,Graduate,Rural,0,240.1,Yes
+A0321,41.1,644.0,Salaried,Not Graduate,Rural,0,114.6,Yes
+A0322,65.4,660.0,Self-employed,Graduate,Semiurban,1,236.4,Yes
+A0323,82.4,541.0,Salaried,Graduate,Rural,1,183.9,No
+A0324,49.4,753.0,Salaried,Graduate,Urban,0,173.0,Yes
+A0325,44.2,695.0,Self-employed,Graduate,Urban,0,158.4,Yes
+A0326,58.4,747.0,Self-employed,Graduate,Rural,1,182.2,Yes
+A0327,55.0,799.0,Salaried,Graduate,,0,125.4,Yes
+A0328,37.1,681.0,Salaried,Graduate,Semiurban,1,55.9,Yes
+A0329,63.3,572.0,Salaried,Graduate,Rural,0,132.1,No
+A0330,91.3,626.0,Self-employed,Graduate,Urban,2,365.3,Yes
+A0331,50.4,608.0,Salaried,Not Graduate,Rural,0,107.7,No
+A0332,,650.0,Salaried,Graduate,Semiurban,1,88.4,Yes
+A0333,36.2,685.0,,Graduate,Rural,3,81.1,Yes
+A0334,60.7,560.0,Salaried,Not Graduate,Urban,2,185.6,No
+A0335,32.6,701.0,Salaried,Graduate,Urban,2,106.2,No
+A0336,35.1,589.0,Salaried,Graduate,Rural,0,145.0,No
+A0337,78.0,698.0,Unemployed,Graduate,Urban,2,317.0,No
+A0338,38.7,673.0,Salaried,Graduate,Semiurban,0,170.5,Yes
+A0339,74.5,661.0,Salaried,Graduate,Urban,3,309.4,No
+A0340,82.4,,Self-employed,Not Graduate,Urban,2,234.9,Yes
+A0341,59.7,648.0,Self-employed,Not Graduate,Semiurban,1,115.0,Yes
+A0342,65.0,643.0,Self-employed,Graduate,Urban,2,283.9,No
+A0343,90.1,579.0,Salaried,Graduate,Urban,1,197.0,Yes
+A0344,51.5,678.0,,Not Graduate,Semiurban,2,173.4,Yes
+A0345,44.3,791.0,Salaried,Graduate,Urban,0,101.6,Yes
+A0346,30.6,799.0,Unemployed,Not Graduate,Rural,3,120.9,No
+A0347,55.8,759.0,Salaried,Not Graduate,Urban,2,117.3,Yes
+A0348,81.6,722.0,Salaried,Not Graduate,Urban,0,225.4,Yes
+A0349,72.3,639.0,Self-employed,Not Graduate,Rural,0,156.1,Yes
+A0350,38.0,767.0,Salaried,Graduate,Semiurban,1,155.1,Yes
+A0351,39.6,677.0,Self-employed,Not Graduate,Semiurban,2,133.0,No
+A0352,45.9,676.0,Self-employed,Graduate,Rural,0,155.7,Yes
+A0353,60.3,663.0,Salaried,Graduate,Urban,3,147.3,Yes
+A0354,51.3,686.0,Salaried,Graduate,Urban,0,104.1,Yes
+A0355,58.9,654.0,Self-employed,Graduate,Rural,3,239.8,No
+A0356,60.3,675.0,Salaried,Not Graduate,Urban,2,228.8,No
+A0357,49.6,615.0,Unemployed,Not Graduate,Urban,1,183.7,No
+A0358,54.3,658.0,Self-employed,Graduate,Rural,0,243.9,No
+A0359,58.7,817.0,Salaried,Graduate,Semiurban,0,186.6,Yes
+A0360,53.5,676.0,Salaried,Graduate,Urban,0,108.9,Yes
+A0361,64.1,666.0,Self-employed,Graduate,Rural,1,213.4,Yes
+A0362,88.7,712.0,,Not Graduate,Rural,2,209.5,Yes
+A0363,65.7,722.0,Salaried,Not Graduate,Urban,3,199.7,Yes
+A0364,56.0,613.0,Salaried,Not Graduate,Rural,0,161.2,Yes
+A0365,24.6,668.0,Salaried,Not Graduate,Urban,3,78.5,No
+A0366,62.0,735.0,Salaried,Not Graduate,,0,264.4,Yes
+A0367,20.0,696.0,Self-employed,Graduate,,3,78.6,No
+A0368,,687.0,Unemployed,Graduate,Semiurban,3,81.3,No
+A0369,,773.0,Self-employed,Graduate,Semiurban,0,278.2,Yes
+A0370,67.7,639.0,Salaried,Not Graduate,Semiurban,2,276.3,No
+A0371,52.3,,Salaried,Graduate,Urban,2,199.9,Yes
+A0372,24.2,649.0,Salaried,Graduate,Rural,2,76.3,Yes
+A0373,48.3,769.0,Unemployed,Graduate,Semiurban,2,202.8,Yes
+A0374,42.8,563.0,Salaried,Graduate,Urban,1,127.4,No
+A0375,66.5,640.0,,Not Graduate,Semiurban,1,120.9,Yes
+A0376,95.6,648.0,Unemployed,Graduate,Semiurban,0,221.4,Yes
+A0377,,720.0,Salaried,Graduate,Urban,2,204.5,Yes
+A0378,41.0,716.0,Salaried,Not Graduate,Urban,3,108.1,Yes
+A0379,33.9,764.0,Salaried,Not Graduate,Rural,0,93.9,Yes
+A0380,54.0,586.0,Salaried,Graduate,Urban,2,146.2,No
+A0381,51.8,725.0,Unemployed,Graduate,Semiurban,0,107.5,Yes
+A0382,34.3,662.0,Salaried,Graduate,Urban,0,61.1,Yes
+A0383,57.1,640.0,Salaried,Not Graduate,Urban,0,94.1,Yes
+A0384,34.3,712.0,Salaried,Not Graduate,Rural,1,120.7,Yes
+A0385,75.0,625.0,,Graduate,Semiurban,0,185.4,Yes
+A0386,74.1,555.0,Salaried,Graduate,Rural,0,212.7,No
+A0387,74.5,658.0,Unemployed,Graduate,Rural,0,320.8,No
+A0388,46.5,590.0,Self-employed,Graduate,Semiurban,0,157.2,No
+A0389,64.3,641.0,Unemployed,Graduate,Semiurban,2,252.8,No
+A0390,,702.0,Salaried,Graduate,Rural,0,199.2,Yes
+A0391,48.0,699.0,Salaried,Graduate,Rural,1,209.3,No
+A0392,48.9,775.0,Salaried,Graduate,Semiurban,1,83.2,Yes
+A0393,31.6,668.0,Unemployed,Graduate,Urban,0,83.8,No
+A0394,29.0,588.0,Self-employed,Graduate,Urban,0,126.1,No
+A0395,69.3,635.0,Salaried,Graduate,Urban,3,200.5,Yes
+A0396,51.6,625.0,Self-employed,Graduate,Semiurban,3,224.1,No
+A0397,58.9,607.0,Unemployed,Graduate,Semiurban,2,121.0,No
+A0398,73.0,706.0,Unemployed,Graduate,Rural,0,122.7,Yes
+A0399,23.8,641.0,,Graduate,Urban,2,99.6,No
+A0400,40.9,561.0,Self-employed,Not Graduate,Semiurban,1,111.8,No
